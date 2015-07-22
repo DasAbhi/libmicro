@@ -1,0 +1,108 @@
+!Libmicro_#:                            0.4.2
+!Options:                  -E -C 200 -L -S -W
+!Machine_name:                 dasabhi-G750JW
+!OS_name:                               Linux
+!OS_release:                3.13.0-52-generic
+!OS_build:                 #85-Ubuntu SMP Wed
+!Processor:                            x86_64
+!#CPUs:                                     8
+!CPU_MHz:                              800Mhz
+!CPU_NAME:      Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+!IP_address:                        127.0.1.1
+!Run_by:                              dasabhi
+!Date:	                       07/22/15 11:47
+!Compiler:                                gcc
+!Compiler Ver.:                           4.8
+!sizeof(long):                              8
+!extra_CFLAGS:                         [none]
+!TimerRes:                            1 nsecs
+# 
+# Obligatory null system call: use very short time
+# for default since SuSe implements this "syscall" in userland
+# 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
